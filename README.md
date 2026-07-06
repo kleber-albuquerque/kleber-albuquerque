@@ -2,13 +2,13 @@
 
 **Desenvolvedor Python | Criador do Burila | Músico | Redator | Filósofo em formação**
 
-📍 Salvador/BA | 📧 kleberalbuquerque7@gmail.com | 🌐 [www.kleberalbuquerque.com.br](http://www.kleberalbuquerque.com.br)
+📍 Salvador/BA | 📧 kleberalbuquerque7@gmail.com | 🌐 [kleber-albuquerque.github.io](https://kleber-albuquerque.github.io)
 
 ---
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Python em formação com uma trajetória pouco convencional: são **28 anos de carreira artística** como compositor (10 álbuns autorais, parcerias com Zeca Baleiro e Chico César, premiado com APCA e Coca-Cola Femsa), **12 anos como redator publicitário** (Lenovo, Epson, LG) e atualmente **estudante de Filosofia na UFBA**.
+Desenvolvedor Python em formação com uma trajetória pouco convencional: são **25 anos de carreira artística** como compositor (10 álbuns autorais, parcerias com Zeca Baleiro e Chico César, premiado com APCA e Coca-Cola Femsa), **12 anos como redator publicitário** (Lenovo, Epson, LG) e atualmente **estudante de Filosofia na UFBA**.
 
 Criei o **Burila** para ajudar minha esposa Vivi, designer de joias, a gerenciar seu catálogo e gerar conteúdo com IA. O que começou como uma necessidade pessoal evoluiu para uma **plataforma SaaS completa**, e hoje ajudo outros criadores autorais a digitalizarem seus negócios.
 
@@ -63,7 +63,8 @@ Implemento soluções inteligentes para automatizar processos:
 ### Stack técnica:
 `Python` `Flask` `PostgreSQL` `SQLite` `HTML5` `CSS3` `Bootstrap` `Groq API` `MoviePy` `Git` `Render`
 
-🔗 **Acesso:** [vivi-content-studio.onrender.com](https://vivi-content-studio.onrender.com)
+🔗 **Acesso:** [vivi-content-studio.onrender.com](https://vivi-content-studio.onrender.com)  
+🔗 **Código:** [github.com/kleber-albuquerque/vivi-bot](https://github.com/kleber-albuquerque/vivi-bot)
 
 ---
 
@@ -100,7 +101,6 @@ Implemento soluções inteligentes para automatizar processos:
 - Python 3.12
 - Flask
 - PostgreSQL / SQLite
-- SQLAlchemy
 
 **Frontend:**
 - HTML5
@@ -113,7 +113,6 @@ Implemento soluções inteligentes para automatizar processos:
 - Render (deploy)
 - Groq API (IA)
 - MoviePy (vídeos)
-- Werkzeug (segurança)
 
 ---
 
@@ -128,7 +127,7 @@ Estou disponível para projetos freelance em:
 
 ### Por que me contratar?
 
-- **Visão criativa:** 28 anos trabalhando com arte e comunicação
+- **Visão criativa:** 25 anos trabalhando com arte e comunicação
 - **Foco em resultados:** Sistemas que resolvem problemas reais
 - **Comunicação clara:** Falo a língua do cliente, não apenas do código
 - **Compromisso:** Entrego no prazo e com qualidade
@@ -148,7 +147,8 @@ Estou disponível para projetos freelance em:
 ## 🌐 Conecte-se Comigo
 
 - 💼 **LinkedIn:** [linkedin.com/in/kleber-albuquerque](https://www.linkedin.com/in/kl%C3%A9ber-albuquerque-42350421/)
-- 🎵 **Site oficial:** [www.kleberalbuquerque.com.br](http://www.kleberalbuquerque.com.br)
+- 🌐 **Site pessoal:** [kleber-albuquerque.github.io](https://kleber-albuquerque.github.io)
+- 🎵 **Site artístico:** [www.kleberalbuquerque.com.br](http://www.kleberalbuquerque.com.br)
 - 📧 **Email:** kleberalbuquerque7@gmail.com
 - 📍 **Localização:** Salvador/BA
 
